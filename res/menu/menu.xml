@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/clipboard" android:title="@string/clipboard_label"
+		android:icon="@android:drawable/ic_menu_save" />
+	<item android:id="@+id/share" android:title="@string/share_label"
+		android:icon="@android:drawable/ic_menu_share" />
+	<item android:id="@+id/rescan" android:title="@string/rescan_label"
+		android:icon="@android:drawable/ic_menu_rotate" />
+	<item android:id="@+id/psas" android:title="@string/psas_label"
+		android:icon="@android:drawable/ic_menu_view" />
+</menu>
