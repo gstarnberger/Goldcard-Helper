@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 	package="name.starnberger.guenther.android.goldcard"
-	android:versionCode="7" android:versionName="1.0.6" android:installLocation="auto">
+	android:versionCode="8" android:versionName="1.0.7" android:installLocation="auto">
 	<application android:icon="@drawable/icon" android:label="@string/app_name">
 		<activity android:name=".GoldCard" android:label="@string/app_name">
 			<intent-filter>

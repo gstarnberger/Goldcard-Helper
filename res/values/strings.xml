@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="defaultText">GoldCard Generator</string>
-    <string name="app_name">GoldCard</string>
+    <string name="app_name">GoldCard Helper</string>
     <string name="clipboard_label">Copy to clipboard</string>
     <string name="share_label">Share</string>
     <string name="rescan_label">Rescan cards</string>

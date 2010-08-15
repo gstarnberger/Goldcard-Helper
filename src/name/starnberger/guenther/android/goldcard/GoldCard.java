@@ -36,7 +36,7 @@ public class GoldCard extends Activity {
        TextView mainText = (TextView) findViewById(R.id.mainText);
         
         text = new StringBuffer();
-        text.append("GoldCard helper\n\n");
+        // text.append("GoldCard helper\n\n");
                
         File mmcRootDir = new File("/sys/class/mmc_host/");
         
@@ -94,7 +94,7 @@ public class GoldCard extends Activity {
         
         text.append("Use \"menu\" to copy the reverse CID to your clipboard or to send it via email.\n\n");
         
-        text.append("While this software provides a link to the PSAS goldcard generator, it is not otherwise related to PSAS or the PSAS website.\n\n");
+        text.append("While this software provides a link to the PSAS goldcard generator, it is not otherwise related to PSAS or the PSAS website.");
         
         mainText.setText(text);
     }
