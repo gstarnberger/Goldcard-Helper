@@ -1,0 +1,5 @@
+This application helps you generate a so called "goldcard" by reading your MMC
+(or SD) card's CID and by automatically reversing it. This information can then
+be used as input for the PSAS goldcard generator website.
+
+If you don't know what a goldcard is you probably don't need this application.
